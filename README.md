@@ -2,7 +2,8 @@
 Want to speak different languages at home and don't want it to be boring?
 Decide which languages you want to speak, say, 3 days English, 1 day Russian, the rest - German.
 
-Download the [jar](https://github.com/serddmitry/language_days/releases)
+[Download the jar](https://github.com/serddmitry/language_days/releases).
+
 Run the program with params EN EN EN RU DE DE DE, it will output a calendar for next 3 months, where the languages you've specified will be shuffled and assigned to days, for example:
 ```
 November
